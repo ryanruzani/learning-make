@@ -1,6 +1,6 @@
-# learning-make
+# Git and Github coarse
 
-This repo was used to learn git from Ryanscode
+## This repo was used to learn git from Ryanscode
 
 
 https://ryanscode.com/courses/git-github
